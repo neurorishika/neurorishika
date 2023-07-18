@@ -27,8 +27,8 @@
 ## About Me 💖
 I’m a neuroscientist🧠 from India in love with insect 🦋 brains, human social behavior 🧑‍🤝‍🧑 and politics. I am also a roleplay-focused TTRPG storyteller ⚔️🐉 and a proud trans woman 🏳️‍🌈. My pronouns are She/Her.
 
-- 🔭 I’m currently working as a Research Technician at HHMI Janelia Research Campus, Ashburn, VA at the Glenn Turner Lab
-- 🌱 I’m currently learning a variety of RL models.
+- 🔭 I’m currently working on getting my Ph.D. at The Rockefeller University, New York, NY.
+- 🌱 I’m currently learning about foraging and navigation strategies in animals.
 - 📫 Reach me through any of the above social media platforms! Twitter preferred 🙂
 
 ## 🛠️ Languages and Tools
