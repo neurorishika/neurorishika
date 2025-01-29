@@ -25,7 +25,7 @@
 </div>
 
 ## About Me 💖
-I’m a neuroscientist🧠 from India in love with insect 🦋 brains, human social behavior 🧑‍🤝‍🧑 and politics. I am also a roleplay-focused TTRPG storyteller ⚔️🐉 and a proud trans woman 🏳️‍🌈. My pronouns are She/Her.
+I’m a neuroscientist🧠 from India in love with insect 🦋 brains, human social behavior 🧑‍🤝‍🧑 and politics. I am also a roleplay-focused TTRPG storyteller ⚔️🐉.
 
 - 🔭 I’m currently working on getting my Ph.D. at The Rockefeller University, New York, NY.
 - 🌱 I’m currently learning about foraging and navigation strategies in animals.
