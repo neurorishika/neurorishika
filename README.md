@@ -29,7 +29,7 @@ I’m a neuroscientist🧠 from India in love with insect 🦋 brains, human soc
 
 - 🔭 I’m currently working on getting my Ph.D. at The Rockefeller University, New York, NY.
 - 🌱 I’m currently learning about foraging and navigation strategies in animals.
-- 📫 Reach me through any of the above social media platforms! Twitter preferred 🙂
+- 📫 Reach me through any of the above social media platforms!
 
 ## 🛠️ Languages and Tools
 ### Programming Languages
